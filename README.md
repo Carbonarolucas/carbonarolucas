@@ -7,9 +7,9 @@
 
 ## About me:
 
-I'm a mechatronic engineer Student :smile:
+I'm a mechatronic engineer Student
 
-I enjoy code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+I enjoy code and create new stuff, i like too much to discover new technologies and dive deep in solving problems. :smile:
 
 ## My specialties:
 
@@ -23,4 +23,4 @@ I enjoy code and create new stuff, i like too much to discover new technologies 
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=carbonarolucas&show_icons=true&title_color=fff&icon_color=fcf47c&text_color=fff&bg_color=171c24&count_private=true)](https://github.com/carbonarolucas)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carbonarolucas&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/carbonarolucas)
